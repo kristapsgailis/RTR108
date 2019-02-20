@@ -1,0 +1,49 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  ssh -X x121REB373@213.175.92.37
+    4  pwd
+    5  whoami
+    6  who
+    7  uname
+    8  uname -a
+    9  echo $0
+   10  sh
+   11  w
+   12  man echo
+   13  echo "Tekstiņš"
+   14  ls
+   15  echo "Tekstiņš" > aaa.txt
+   16  ls -l
+   17  cat aaa.txt
+   18  echo "Cits teksts" > aaa.txt
+   19  ls -l
+   20  cat aaa.txt
+   21  echo "Pavisām cits teksts" >> aaa.txt
+   22  cat aaa.txt
+   23  ls
+   24  nano mans_skripts.sh
+   25  ls -l
+   26  mans_skripts.sh
+   27  ./mans_skripts.sh
+   28  ~/mans_skripts.sh
+   29  eco $PATH
+   30  echo $PATH
+   31  mans_skripts.sh
+   32  pwd
+   33  PATH=$PATH:/home/user
+   34  echo $PATH
+   35  mans_skripts.sh
+   36  ls -l
+   37  chmod 750 mans_skripts.sh
+   38  ls -l
+   39  mans_skripts.sh
+   40* 
+   41  nano mans_skripts.sh
+   42  mans_skripts.sh
+   43  pwd
+   44  ls /bin/bash
+   45  ls -l /bin/bash
+   46  pwd
+   47  cat /bin/ls
+   48  history
+   49  history > history_20190220.txt
