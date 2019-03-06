@@ -3,7 +3,11 @@
 
 
 # 2.Nodarbiba
-
+Kur? - pwo
+Kas es esmu? - whoami
+Kas strādā tepat? - who
+Ar kādu OS es strādāju?  uname -a
+Kādā Shell "dialektā" mēs ar OS sarunājamies? - echo $0
 
 
 
