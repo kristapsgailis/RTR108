@@ -10,6 +10,7 @@
 3. Kas strādā tepat? - who
 4. Ar kādu OS es strādāju?  uname -a
 5. Kādā Shell "dialektā" mēs ar OS sarunājamies? - echo $0
+6. chmod - izmanto, lai mainītu failu atļaujas, piemēram chmod 744 fails.sh.
 
 # 3.Nodarbība - Shell
 * Read-only Variables - Shell atzīmē mainīgos kā tikai lasāmu, pēc tam, kad mainīgais ir atzīmēts kā tikai lasāms, tā vērtību nevar mainīt, un skripts rādīs kļūdu, mēģinot mainīt mainīgo vērtību.
