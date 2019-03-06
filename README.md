@@ -3,11 +3,11 @@
 
 
 # 2.Nodarbiba
-1.Kur? - pwo
-2.Kas es esmu? - whoami
-3.Kas strādā tepat? - who
-4.Ar kādu OS es strādāju?  uname -a
-5.Kādā Shell "dialektā" mēs ar OS sarunājamies? - echo $0
+1. Kur? - pwo
+2. Kas es esmu? - whoami
+3. Kas strādā tepat? - who
+4. Ar kādu OS es strādāju?  uname -a
+5. Kādā Shell "dialektā" mēs ar OS sarunājamies? - echo $0
 
 
 
