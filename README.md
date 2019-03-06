@@ -1,8 +1,8 @@
 # RTR108
 # 1.Nodarbība - Github
-1. Git clone - repository klonēšana.
-2. mv - Ar šo komandu var pārvietot failus termināli uz repository mapi, ko iegūst ar git clone.
-3. ./git-upload augšuplāde failus no termināļa uz githuba repository mapi.
+* Git clone - repository klonēšana.
+* mv - Ar šo komandu var pārvietot failus termināli uz repository mapi, ko iegūst ar git clone.
+* ./git-upload augšuplāde failus no termināļa uz githuba repository mapi.
 
 # 2.Nodarbiba - Terminālis
 1. Kur? - pwo
