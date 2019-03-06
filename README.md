@@ -12,7 +12,7 @@
 
 
 # 3.Nodarbība
-* Read-only Variables - mainīgais ir tikai read-only.
+* Read-only Variables - Shell atzīmē mainīgos kā tikai lasāmu, pēc tam, kad mainīgais ir atzīmēts kā tikai lasāms, tā vērtību nevar mainīt, un skripts rādīs kļūdu, mēģinot mainīt mainīgo vērtību.
 * Accessing Values - define mainigos, piemeram, name.
 * Unsetting Variables - nonem mainigo.
 * Command-Line Arguments - satur vairakus specialus mainigos ar kuriem var izsaukt argumentus.
