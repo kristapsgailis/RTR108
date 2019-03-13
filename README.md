@@ -1,8 +1,11 @@
 # RTR108
 # 1.Nodarbība - Github
 * Git clone - repository klonēšana.
+   * git clone https://github.com/kristapsgailis/RTR108
 * mv - Ar šo komandu var pārvietot failus termināli uz repository mapi, ko iegūst ar git clone.
+   * mv fails RTR108/
 * ./git-upload augšuplāde failus no termināļa uz githuba repository mapi.
+   * ./git-upload gadsmēnesisdatums_stunda_minūtes
 
 # 2.Nodarbiba - Terminālis
 1. Kur? - pwo
