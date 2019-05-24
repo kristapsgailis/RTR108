@@ -29,3 +29,5 @@
    4. -lt Pārbauda, vai kreisā mainīgā vērtība ir mazāka par labā mainīga vērtību; ja jā, tad nosacījums kļūst patiess.
    5. -ge Pārbauda, vai kreisā mainīgā vērtība ir lielāka vai vienāda ar labo mainīgo vērtību; ja jā, tad nosacījums kļūst patiess.
    6. -le Pārbauda, vai kreisā mainīgā vērtība ir mazāka vai vienāda ar labo mainūgo vērtību; ja jā, tad nosacījums kļūst patiess.
+# 7.nodarbība-8.nodarbība
+Latex faila veidošana overleaf vidē: https://www.overleaf.com/read/hwjkwgzsqvpb
