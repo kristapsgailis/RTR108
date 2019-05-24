@@ -17,11 +17,12 @@
 7. cat - izmanto, lai nolasītu failu.
 
 # 3.Nodarbība - Shell
-* Read-only Variables - Shell atzīmē mainīgos kā tikai lasāmu, pēc tam, kad mainīgais ir atzīmēts kā tikai lasāms, tā vērtību nevar mainīt, un skripts rādīs kļūdu, mēģinot mainīt mainīgo vērtību.
-* Accessing Values - Ļauj piekļūtu mainīgā saglabātajai vērtībai, pirms tā nosaukuma pievienojiet dolāra zīmi ($).
-* Unsetting Variables - Izmanto lai noņemtu mainīgo no mainīgo lielumu saraksta.
-* Command-Line Arguments - satur vairakus specialus mainigos ar kuriem var izsaukt argumentus.
+* Shell Variables
+  * Read-only Variables - Shell atzīmē mainīgos kā tikai lasāmu, pēc tam, kad mainīgais ir atzīmēts kā tikai lasāms, tā vērtību nevar     mainīt, un skripts rādīs kļūdu, mēģinot mainīt mainīgo vērtību.
+  * Accessing Values - Ļauj piekļūtu mainīgā saglabātajai vērtībai, pirms tā nosaukuma pievienojiet dolāra zīmi ($).
+  * Unsetting Variables - Izmanto lai noņemtu mainīgo no mainīgo lielumu saraksta.
 * Special Variables - speciāli mainīgie ar savām nozīmēm Shell vidē.
+  * Command-Line Arguments - satur vairakus specialus mainigos ar kuriem var izsaukt argumentus.
   1. $0 - The filename of the current script.|
   2. $n - The Nth argument passed to script was invoked or function was called.|
   3. $# - The number of argument passed to script or function.|
@@ -39,5 +40,6 @@
    5. -ge Pārbauda, vai kreisā mainīgā vērtība ir lielāka vai vienāda ar labo mainīgo vērtību; ja jā, tad nosacījums kļūst patiess.
    6. -le Pārbauda, vai kreisā mainīgā vērtība ir mazāka vai vienāda ar labo mainūgo vērtību; ja jā, tad nosacījums kļūst patiess.
 * Shell Loop - Programmēšanas rīks, kas ļauj atkārtoti izpildīt komandu kopu.
+   * Nesting Loops - Izmanto, lai ievietotu vienu loop citā līdzīgā vai citā loop.
 # 7.nodarbība-8.nodarbība
 Latex faila veidošana overleaf vidē: https://www.overleaf.com/read/hwjkwgzsqvpb
