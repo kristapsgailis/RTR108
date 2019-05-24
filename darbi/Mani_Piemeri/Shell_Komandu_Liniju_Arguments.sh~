@@ -1,0 +1,10 @@
+#!/bin/sh
+
+echo "Šo skriptu izpildīt šādā veidā: ./03.sh $1 $2 $3"
+echo "Faila nosaukums : $0"
+echo "Pirmais parametrs : $1"
+echo "Otrs parametrs : $2"
+echo "Trešais parametrs : $3"
+echo "Citētie argumenti : $@"
+echo "Individuāli citētie argumenti : $*"
+echo "Parametru kopskaits : $#"

@@ -1,0 +1,6 @@
+#!/bin/sh
+
+echo "Kā Jūs sauc?"
+read VARDS
+echo "Sveicināti, $VARDS!"
+fi
