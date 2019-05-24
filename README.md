@@ -31,7 +31,9 @@
   6. $? - The exit status of the last command executed.|
   7. $$ - The process ID of the current shell. For shell scripts, this is the process ID under which they are executing.|
   8. $! - The process number of the last background command.|
-* Accessing Array Values - Izmanto ,lai piekļūtu pie masīva vērtībām.
+* Shell Arrays
+  * Accessing Array Values - Izmanto ,lai piekļūtu pie masīva vērtībām.
+  * Accessing ALL Array Values - Izmanto ,lai piekļūtu pie visām masīva vērtībām.
 * Basic operations - Šajās shell operācijās virknes vērtībām jābut skaitlim,piemēram, ja mainīgais a ir 10 un mainīgais b ir 20, tad ar operācijām:
    1. -eq Pārbauda, vai divu mainīgo vērtība ir vienāda vai ne; ja jā, tad nosacījums kļūst patiess.
    2. -ne Pārbauda, vai divu mainīgo vērtība ir vienāda vai ne; ja vērtības nav vienādas, tad nosacījums kļūst patiess.
@@ -41,5 +43,11 @@
    6. -le Pārbauda, vai kreisā mainīgā vērtība ir mazāka vai vienāda ar labo mainūgo vērtību; ja jā, tad nosacījums kļūst patiess.
 * Shell Loop - Programmēšanas rīks, kas ļauj atkārtoti izpildīt komandu kopu.
    * Nesting Loops - Izmanto, lai ievietotu vienu loop citā līdzīgā vai citā loop.
+* Shell Loop Control - Ja ir nepieciešams pārtraukt loop vai izlaist loop atkārtojumus.
+   * The infinite Loop - Cilpa var turpināties uz visiem laikiem, ja nav izpildīts vajadzīgais nosacījums.
+   * The break Statement - Tiek izmantots, lai izbeigtu visas loop izpildi.
+   * The continue statement - Līdzīgs The break Statement, izņemot to, ka tas izraisa loop pašreizējo atkārtošanos, nevis visu loop.
+* Shell Input/Output Redirections - Izmanto datu ievadei un izvadei izmantojot Shell un skriptu veidošanai. 
+   * Here Document - Here Document izmanto skriptu vai programmas izveidei. 
 # 7.nodarbība-8.nodarbība
 Latex faila veidošana overleaf vidē: https://www.overleaf.com/read/hwjkwgzsqvpb
